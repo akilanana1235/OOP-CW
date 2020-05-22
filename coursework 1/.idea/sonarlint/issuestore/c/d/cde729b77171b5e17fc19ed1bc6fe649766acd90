@@ -1,0 +1,5 @@
+
+‰"squid:ClassVariableVisibilityCheck"VMake connection a static final constant or non-public and provide accessors if needed.(à¯ôüÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ
+?squid:S2115")Add password protection to this database.(æûßW
+Isquid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ

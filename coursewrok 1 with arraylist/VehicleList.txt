@@ -1,0 +1,10 @@
+Motorbike{numberOfGears=4, wheelDiameter=15, numberOfHelmets=2} Vehicle{plateNumber='WP KM-2525', make='Bajaj', numberOfPassengers=2, pricePerKm=30.0, vehicleType='Motorbike'}
+Motorbike{numberOfGears=6, wheelDiameter=17, numberOfHelmets=2} Vehicle{plateNumber='SP CBC-3590', make='Ducati', numberOfPassengers=2, pricePerKm=30.0, vehicleType='Motorbike'}
+Car{numberOfAirbags=2, fuelType=92, numberOfSeats=3} Vehicle{plateNumber='WP LK-4574', make='FAW', numberOfPassengers=4, pricePerKm=50.0, vehicleType='Car'}
+Car{numberOfAirbags=4, fuelType=95, numberOfSeats=5} Vehicle{plateNumber='WP CBC-3590', make='Honda', numberOfPassengers=4, pricePerKm=50.0, vehicleType='Car'}
+Car{numberOfAirbags=8, fuelType=95, numberOfSeats=5} Vehicle{plateNumber='WP CAR-0398', make='Honda', numberOfPassengers=4, pricePerKm=50.0, vehicleType='Car'}
+Car{numberOfAirbags=0, fuelType=92, numberOfSeats=5} Vehicle{plateNumber='WP LM-9245', make='JMC', numberOfPassengers=4, pricePerKm=50.0, vehicleType='Car'}
+Car{numberOfAirbags=2, fuelType=92, numberOfSeats=4} Vehicle{plateNumber='SP AAK-9545', make='Mahindra', numberOfPassengers=4, pricePerKm=50.0, vehicleType='Car'}
+Car{numberOfAirbags=2, fuelType=92, numberOfSeats=4} Vehicle{plateNumber='WP CAK-6216', make='Suzuki', numberOfPassengers=4, pricePerKm=50.0, vehicleType='Car'}
+Motorbike{numberOfGears=4, wheelDiameter=15, numberOfHelmets=2} Vehicle{plateNumber='NP CAR-6478', make='Tvs', numberOfPassengers=2, pricePerKm=30.0, vehicleType='Motorbike'}
+Motorbike{numberOfGears=5, wheelDiameter=16, numberOfHelmets=2} Vehicle{plateNumber='WP ACA-1457', make='Yamaha', numberOfPassengers=2, pricePerKm=30.0, vehicleType='Motorbike'}

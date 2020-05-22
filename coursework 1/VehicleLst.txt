@@ -1,0 +1,65 @@
+                           Report
+               
+Vehicle Type: Car
+Vehicle Plate Number: cak
+Vehicle Make: susu
+Price Per KM: 0.0
+Number of Doors: 4
+Fuel Type: 92
+Number of Helmets: 0
+Helmet Size: 0
+__________________________________________________
+Vehicle Type: Car
+Vehicle Plate Number: ABC-5920
+Vehicle Make: Audi
+Price Per KM: 0.0
+Number of Doors: 5
+Fuel Type: 95
+Number of Helmets: 0
+Helmet Size: 0
+__________________________________________________
+Vehicle Type: Car
+Vehicle Plate Number: Zek-9245
+Vehicle Make: Toyoto
+Price Per KM: 0.0
+Number of Doors: 5
+Fuel Type: 92
+Number of Helmets: 0
+Helmet Size: 0
+__________________________________________________
+Vehicle Type: Car
+Vehicle Plate Number: fak-9585
+Vehicle Make: rolsrocyce
+Price Per KM: 0.0
+Number of Doors: 5
+Fuel Type: 95
+Number of Helmets: 0
+Helmet Size: 0
+__________________________________________________
+Vehicle Type: Motorbike
+Vehicle Plate Number: bfb-5474
+Vehicle Make: yamaha
+Price Per KM: 0.0
+Number of Doors: 2
+Fuel Type: 2.5
+Number of Helmets: 0
+Helmet Size: 0
+__________________________________________________
+Vehicle Type: Motorbike
+Vehicle Plate Number: tre-9898
+Vehicle Make: bajaj
+Price Per KM: 0.0
+Number of Doors: 2
+Fuel Type: 96.6
+Number of Helmets: 0
+Helmet Size: 0
+__________________________________________________
+Vehicle Type: Car
+Vehicle Plate Number: 1313
+Vehicle Make: sdzs
+Price Per KM: 0.0
+Number of Doors: 4
+Fuel Type: 98
+Number of Helmets: 0
+Helmet Size: 0
+__________________________________________________

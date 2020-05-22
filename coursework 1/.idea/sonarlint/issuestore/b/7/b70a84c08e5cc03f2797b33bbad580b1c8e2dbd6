@@ -1,0 +1,122 @@
+
+U
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(¶š®ûÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(µê‹
+isquid:S3457¢"Q%n should be used in place of \n to produce the platform-specific line separator.(ÄÅÀÙ
+T
+squid:S106w"9Replace this use of System.out or System.err by a logger.(åÂçãúÿÿÿÿ
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(êğµºúÿÿÿÿ
+™squid:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£®ÁÚ
+dsquid:S2095‘"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¡ü¾œıÿÿÿÿ
+@squid:S1148¯"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ
+P
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(úï
+isquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ãé¼…
+U
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(Ùÿ¨¦üÿÿÿÿ
+_squid:S2095Å"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¬Ö¬÷
+P
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(ù€¢Ò
+P
+squid:S106é"9Replace this use of System.out or System.err by a logger.(ù€¢Ò
+U
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+dsquid:S2095¼"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(í¯¬’øÿÿÿÿ
+nsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ëú¼úÿÿÿÿ
+P
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(ÄÅÀÙ
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(İâ¶·ùÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëú¼úÿÿÿÿ
+O
+squid:S106^"9Replace this use of System.out or System.err by a logger.(µê‹
+dsquid:S2095Í"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ãğÒıÿÿÿÿÿ
+dsquid:S2095²"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+™squid:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÅ¹‘
+™squid:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ”¤ä
+tsquid:S1192,"^Define a constant instead of duplicating this literal "select count(*) from vehicles" 3 times.(”ÜØ4
+P
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(Ä¤¦Á
+U
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(†±¹ºşÿÿÿÿ
+ksquid:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(â…ÍÆÿÿÿÿÿ
+U
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(Ğ»ıÿÿÿÿ
+U
+squid:S106í"9Replace this use of System.out or System.err by a logger.(ğõö©ûÿÿÿÿ
+O
+squid:S106;"9Replace this use of System.out or System.err by a logger.(É—Ÿ¯
+osquid:S1192ä"WDefine a constant instead of duplicating this literal "_____________________" 10 times.(ù€¢Ò
+U
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(¶š®ûÿÿÿÿ
+dsquid:S2095à"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(×•Äùÿÿÿÿ
+™squid:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ¥œš
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“÷ôšøÿÿÿÿ
+@squid:S1148¡"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ
+dsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+^squid:S2095m"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹
+T
+squid:S106q"9Replace this use of System.out or System.err by a logger.(êğµºúÿÿÿÿ
+^
+squid:S899•"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+gsquid:S2095Ì"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(šáı¹
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãé¼…
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(úï
+P
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(Œ×úö
+isquid:S3457é"Q%n should be used in place of \n to produce the platform-specific line separator.(ù€¢Ò
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(İâ¶·ùÿÿÿÿ
+@squid:S1148Ô"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Œ¹Ú¨
+isquid:S3457ä"Q%n should be used in place of \n to produce the platform-specific line separator.(ù€¢Ò
+O
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(×…¦
+U
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ò”ôøÿÿÿÿ
+_squid:S2095Ã"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¿ñ™¢
+_squid:S2095â"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ş‹¿ı
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡¨İô
+nsquid:S3457Ÿ"Q%n should be used in place of \n to produce the platform-specific line separator.(ò”ôøÿÿÿÿ
+isquid:S3457ç"Q%n should be used in place of \n to produce the platform-specific line separator.(¢”Ó·
+ksquid:S2095l"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(â…ÍÆÿÿÿÿÿ
+U
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+U
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N
+squid:S106{"9Replace this use of System.out or System.err by a logger.(úÂš
+T
+squid:S106C"9Replace this use of System.out or System.err by a logger.(¯°©¢ùÿÿÿÿ
+^squid:S2095."GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹
+P
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(¢”Ó·
+squid:S1186ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(º²ñıûÿÿÿÿ
+@squid:S1148ñ"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ
+csquid:S2095h"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ùÿ¨¦üÿÿÿÿ
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(Ùº¼˜
+fsquid:S2095˜"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(¼—åŸıÿÿÿÿ
+U
+squid:S106À"9Replace this use of System.out or System.err by a logger.(ì›şÿÿÿÿÿ
+nsquid:S3457í"Q%n should be used in place of \n to produce the platform-specific line separator.(ğõö©ûÿÿÿÿ
+hsquid:S3457ê"Q%n should be used in place of \n to produce the platform-specific line separator.(×…¦
+csquid:S2095*"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+gsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ĞÚûãüÿÿÿÿ
+?squid:S1148a"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ
+U
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ì›şÿÿÿÿÿ
+O
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÛÊéØ
+fsquid:S1192í"IDefine a constant instead of duplicating this literal "       " 11 times.(ğõö©ûÿÿÿÿ

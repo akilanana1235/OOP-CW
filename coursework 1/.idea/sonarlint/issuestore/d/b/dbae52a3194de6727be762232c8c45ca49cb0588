@@ -1,0 +1,18 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(§ş¢
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(Àè»¼ÿÿÿÿÿ
+a
+squid:S1287"LEnd this switch case with an unconditional break, return or throw statement.(û¿4
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àè»¼ÿÿÿÿÿ
+Rsquid:EmptyStatementUsageCheck1"Remove this empty statement.(Åñ­õşÿÿÿÿ8Ğ—Ã¿æ-
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ŞÓ•âıÿÿÿÿ
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(µ‘‡
+_squid:UselessImportCheck"/Remove this unused import 'javafx.stage.Stage'.(æÄ¸²úÿÿÿÿ8Ğ—Ã¿æ-
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(íß‰şÿÿÿÿ
+esquid:UselessImportCheck";Remove this unused import 'javafx.application.Application'.(í™şj8ıÕÃ¿æ-
